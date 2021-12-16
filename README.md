@@ -1,14 +1,13 @@
 # tnals655.github.io
----
 
 이름: 20213102 황수민   
 
 ## Project Build 과정
----
 
 선택한 테마를 통해 Build를 하는 과정, 진행 중 이슈에 대해서 차례로 설명   
 
 ### 1. Build 과정
+---
 
 Github에서 [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) Repository를 fork하여 저장소 이름을 'tnals655.github.io'로 변경하였다.
 
@@ -18,6 +17,7 @@ Github에서 [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-m
 + Google Analytics 적용 완료
 
 ### 2. 진행 중 이슈
+---
 
 처음에 강의 시간에 시범으로 적용되었던 lanyon 테마를 이용했고, 이 테마에서 [Disqus](https://disqus.com)를 이용해 댓글 기능을 추가하려 했지만, 무슨 이유 때문인지 댓글 표시 창 자체가 뜨지 않았다. 원인을 찾으려 노력해보았지만, 결국 실패하였다.   
 
