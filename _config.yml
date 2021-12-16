@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "tnals655's Study Note"
+title                    : "tnals655"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hwang Su Min"
@@ -109,7 +109,7 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:tnals655@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -121,8 +121,8 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "github"
-      # url: "https://github.com/tnals655"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tnals655"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
