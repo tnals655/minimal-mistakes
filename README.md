@@ -16,7 +16,7 @@ Github에서 [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-m
 + 사이트에 favicon 추가 완료
 + Google Analytics 적용 완료
 
-### 2. 진행 중 이슈
+### 2. 진행 중 이슈 (댓글 기능)
 ---
 
 처음에 강의 시간에 시범으로 적용되었던 lanyon 테마를 이용했고, 이 테마에서 [Disqus](https://disqus.com)를 이용해 댓글 기능을 추가하려 했지만, 무슨 이유 때문인지 댓글 표시 창 자체가 뜨지 않았다. 원인을 찾으려 노력해보았지만, 결국 실패하였다.   
