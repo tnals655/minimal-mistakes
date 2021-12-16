@@ -24,10 +24,10 @@ Google에서 지원하는 통계 분석 시스템이다. 이걸 통해서 블로
  3. 로컬 저장소의 '_config.yml' 파일을 연 후 아래처럼 설정해준다.   
  (minimal-mistakes 테마를 기준으로 적용한 모습입니다.)
    
- ![Analytics](/assets/img/analytics.png)
+ ![Analytics](/assets/img/analytics.PNG)
    
 이제 다시 Google Analytics 사이트로 돌아가서 조금 기다린 후 블로그를 접속해보고, 사용자를 체크해보자.
 
- ![User](/assets/img/user_count.png)
+ ![User](/assets/img/user_count.PNG)
 
 잘 적용된 걸 확인할 수 있다~
