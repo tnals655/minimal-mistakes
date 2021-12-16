@@ -11,7 +11,9 @@
 
 Github에서 [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) Repository를 fork하여 저장소 이름을 'tnals655.github.io'로 변경하였다.
 
-이후 git clone 을 통해 로컬 저장소를 생성했고, 로컬 저장소에서 포스팅, 블로그 정보 수정 작업 등을 진행했다.
+이후 git clone 을 통해 로컬 저장소를 생성했고, 로컬 저장소에서 포스팅, 블로그 정보 수정 작업 등을 진행했다.   
+
+블로그 수정 작업은 로컬 저장소 내에 _config.yml 을 통해 진행했다.
 
 + 사이트에 favicon 추가 완료
 + Google Analytics 적용 완료
