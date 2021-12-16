@@ -13,7 +13,7 @@ Github에서 [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-m
 
 이후 git clone 을 통해 로컬 저장소를 생성했고, 로컬 저장소에서 포스팅, 블로그 정보 수정 작업 등을 진행했다.   
 
-블로그 수정 작업은 로컬 저장소 내에 _config.yml 을 통해 진행했다.   
+블로그 수정 작업은 로컬 저장소 내에 _config.yml 을 통해 진행했다.      
 또한, 'minimal-mistakes'에 기본으로 존재하던 'Quick Start Guide' 카테고리가 있었는데 블로그의 취지에 맞지 않다고 생각해 삭제했다.
 
 + 사이트에 favicon 추가 완료
