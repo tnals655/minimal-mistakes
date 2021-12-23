@@ -1,7 +1,5 @@
 # tnals655.github.io
 
-이름: 20213102 황수민   
-
 ## Project Build 과정
 
 선택한 테마를 통해 Build를 하는 과정, 진행 중 이슈에 대해서 차례로 설명   
